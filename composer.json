@@ -1,5 +1,5 @@
 {
-    "name": "huid/sms",
+    "name": "huid/simpleSms",
     "description": "a simple package for send sms",
     "type": "library",
     "require": {

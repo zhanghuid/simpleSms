@@ -8,7 +8,7 @@ use Huid\Sms\Contracts\MessageInterface;
 use Huid\Sms\Exceptions\InvalidArgumentException;
 use Huid\Sms\Support\Config;
 
-class Sms
+class SimpleSms
 {
     /**
      * @var Config

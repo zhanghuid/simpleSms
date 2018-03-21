@@ -3,7 +3,7 @@
 use Huid\Sms\Contracts\GatewayInterface;
 use Huid\Sms\Contracts\MessageInterface;
 use Huid\Sms\Exceptions\InvalidArgumentException;
-use Huid\Sms\Sms;
+use Huid\Sms\SimpleSms as Sms;
 use Huid\Sms\Support\Config;
 
 class SmsTest extends \PHPUnit\Framework\TestCase
