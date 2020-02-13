@@ -1,6 +1,11 @@
 ### simpleSms - a package for send sms ![pass](https://travis-ci.org/zhanghuid/simpleSms.svg?branch=master)
 >模仿[overtrue/easy-sms](https://github.com/overtrue/easy-sms)而做的一款极简版
 
+### 安装
+```php
+composer require huid/sms -vvv
+```
+
 ### 环境需求
 - PHP >= 5.6
 
